@@ -1,1 +1,2 @@
-secrets: "AbCdEfGhIjKlMnOpQrStUvWx"
+Twitter access token: 'AbcDeFgHiJkLmNoPqRsTuVwXyZ0123456789ABCDEF'
+password:adjcxhdutk
