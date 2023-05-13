@@ -1,1 +1,1 @@
-Twitter access token: 'AbcDeFgHiJkLmNoPqRsTuVwXyZ0123456789ABCDEF'
+Twitter access token = 'AbcDeFgHiJkLmNoPqRsTuVwXyZ0123456789ABCDEF'
